@@ -1,2 +1,2 @@
 # Blogs_Metrial
-Repository contains metiral for blogs
+This Repo has codes and other metrials related to Blogs I publish in my portfolio website.
